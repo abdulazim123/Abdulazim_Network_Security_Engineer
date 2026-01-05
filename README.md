@@ -113,3 +113,14 @@ My core focus areas include:
 └── docs/
     ├── runbooks/
     └── diagrams/
+
+
+### Add images (quick setup)
+1) Create a folder in your repo called **`assets/`**  
+2) Add these files (any images you like), matching the names used above:
+- `assets/banner.png`
+- `assets/lab-rack.jpg`
+- `assets/skills-collage.png`
+
+If you share your **LinkedIn URL + GitHub username + preferred theme color** (blue/black/grey), I’ll tailor the README to match your personal branding.
+
