@@ -1,126 +1,80 @@
-<!-- =========================================================
- Abdulazim | Network Security Engineer | GitHub Portfolio README
- Save this as: README.md
- Optional: add images under /assets and update paths below.
-========================================================= -->
-
 <div align="center">
-
-<img src="assets/banner.png" alt="Abdulazim - Network Security Engineer Banner" width="100%"/>
-
-# Abdulazim
-### Network Security Engineer | CCNP • CCNA • Network Security • F5 • Palo Alto • Riverbed
-
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github" /></a>
-</p>
-
-<img src="assets/lab-rack.jpg" alt="Network Lab / Data Center" width="85%"/>
-
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Abdul%20Azim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Network%20Security%20Engineer&descAlignY=58&descSize=22&descColor=00d4ff&animation=fadeIn" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Network+Security+Engineer+%F0%9F%94%90;Firewall+%26+IDS%2FIPS+Specialist;SIEM+%2F+SOC+Analyst;Penetration+Tester;Protecting+Entry+Points+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=abdulazim123&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 </div>
-
 ---
-
-## About Me
-I’m **Abdulazim**, a **Network Security Engineer** specializing in enterprise networking and security operations, including design, deployment, troubleshooting, and optimization of security and application delivery platforms.
-
-My core focus areas include:
-- **Network Security & Operations:** incident response, root-cause analysis, hardening, and performance tuning  
-- **Application & Edge Security:** **F5 WAF (ASM/AWAF)** policy management and fine-tuning  
-- **Firewall & VPN Engineering:** **Palo Alto** VPN configuration, troubleshooting, and security policy control  
-- **WAN Optimization:** **Riverbed SteelHead** POCs and WAN performance improvement initiatives  
-
+👨‍💻 About Me
+```yaml
+Name        : Abdul Azim
+Role        : Network Security Engineer
+Focus       : Cybersecurity | Network Defense | Threat Detection
+Location    : Pakistan 🇵🇰
+Status      : Actively seeking new opportunities
+```
+I am a dedicated Network Security Engineer with hands-on experience at a leading cybersecurity firm, specializing in securing network entry points and defending critical infrastructure. My work spans firewall management, intrusion detection, SOC operations, and penetration testing — with a mission to keep networks resilient against evolving threats.
 ---
-
-## Skills & Technologies
-
-### Networking
-- CCNP / CCNA fundamentals
-- Routing & Switching (Enterprise LAN/WAN)
-- TCP/IP, NAT, QoS, VLANs, Trunking, HA/Failover concepts
-
-### Network Security
-- Security policy design & implementation
-- VPN troubleshooting and configuration (site-to-site, remote access)
-- Traffic analysis, threat visibility, and baseline-to-anomaly investigation
-
-### Platforms & Tools
-<div align="left">
-
-| Domain | Tools / Platforms |
-|---|---|
-| Firewalls | **Palo Alto Networks** (policies, NAT, VPNs, troubleshooting) |
-| ADC / WAF | **F5 BIG-IP** (**LTM**, **WAF/ASM/AWAF**, **GTM/DNS**) |
-| WAN Optimization | **Riverbed SteelHead** (deployment, tuning, POC validation) |
-| Troubleshooting | tcpdump, logs analysis, health checks, baseline comparisons |
-
+🛡️ Core Competencies
+<div align="center">
+Domain	Skills
+🔥 Firewall & IDS/IPS	Policy Management, Rule Tuning, Signature Analysis, Anomaly Detection
+🌐 Network Protocols	BGP, OSPF, EIGRP, TCP/IP, VLANs, VPNs, SD-WAN
+📊 SIEM / SOC	Log Correlation, Incident Response, Threat Hunting, Alert Triage
+🔍 Penetration Testing	Vulnerability Assessment, Network Recon, Exploitation, Reporting
 </div>
-
-<img src="assets/skills-collage.png" alt="Skills Collage (F5, Palo Alto, Riverbed)" width="100%"/>
-
 ---
-
-## Current Projects (POCs & Engineering Work)
-
-### ✅ F5 WAF POCs
-- WAF onboarding and policy creation for web applications
-- Policy **fine-tuning** (reducing false positives, adjusting signatures)
-- Behavioral DoS / Bot Defense observations and tuning approach
-- CLI-driven investigations (CPU/process correlation, log validation)
-
-### ✅ Riverbed SteelHead POCs
-- WAN optimization test planning and validation
-- Pre/post performance benchmarking
-- Optimization policy alignment with application flows
-
-### ✅ Palo Alto VPN Engineering & Troubleshooting
-- VPN configuration, monitoring, and issue resolution
-- Routing/NAT alignment for VPN traffic
-- Security policy troubleshooting and session analysis
-
+🧰 Tools & Technologies
+<div align="center">
+<!-- Networking & Security -->
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-FA4616?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 ---
-
-## What I Work On (Examples)
-- F5 WAF policy tuning and incident diagnostics (CPU spikes, DoS behavior, logging impact)
-- F5 LTM VIP, pool, iRules (as required), SSL profiles, HA checks
-- Palo Alto VPN + NAT + security rules troubleshooting and best practices
-- Riverbed optimization baseline measurement and rollout readiness
-
+📈 GitHub Statistics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulazim123&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=1a3a5c&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazim123&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=1a3a5c" />
+</div>
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulazim123&theme=dark&background=0d1117&border=1a3a5c&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+</div>
 ---
-
-## Portfolio Structure (Recommended Repo Layout)
-```text
-.
-├── README.md
-├── assets/
-│   ├── banner.png
-│   ├── lab-rack.jpg
-│   ├── skills-collage.png
-│   └── diagrams/
-├── projects/
-│   ├── f5-waf-poc/
-│   │   ├── overview.md
-│   │   ├── tuning-notes.md
-│   │   └── troubleshooting-playbook.md
-│   ├── riverbed-poc/
-│   │   ├── overview.md
-│   │   └── test-results-template.md
-│   └── paloalto-vpn/
-│       ├── vpn-troubleshooting.md
-│       └── config-checklist.md
-└── docs/
-    ├── runbooks/
-    └── diagrams/
-
-
-### Add images (quick setup)
-1) Create a folder in your repo called **`assets/`**  
-2) Add these files (any images you like), matching the names used above:
-- `assets/banner.png`
-- `assets/lab-rack.jpg`
-- `assets/skills-collage.png`
-
-If you share your **LinkedIn URL + GitHub username + preferred theme color** (blue/black/grey), I’ll tailor the README to match your personal branding.
-
+🏆 Certifications & Achievements
+> 📌 *Add your certifications below — e.g., CCNA, CEH, CompTIA Security+, OSCP*
+🎓 [Your Certification] — Issuing Body, Year
+🎓 [Your Certification] — Issuing Body, Year
+🎓 [Your Certification] — Issuing Body, Year
+---
+📌 Featured Projects
+> 💡 *Pin your best repositories and describe them here*
+Project	Description	Technologies
+🔐 Abdulazim_Network_Security_Engineer	Network security portfolio & documentation	Security, Networking
+---
+📫 Let's Connect
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Azim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-abdulazim123-181717?style=for-the-badge&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
+---
+<div align="center">
+💼 I am actively seeking new opportunities in Network Security & Cybersecurity.  
+Feel free to reach out — let's build something secure together.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a3a5c,100:0d1117&height=120&section=footer" />
+</div>
